@@ -45,6 +45,9 @@ a Bidirectional LSTM classifier  built to predict sentiments in news headlines b
 
 </table>
 
+**>Confusion matrix**
+
+![Capture](https://user-images.githubusercontent.com/34875234/156904281-31fd8794-1a5f-4996-9723-02dd2bb654ee.PNG)
 
 
 **>Accuracy graph**:
